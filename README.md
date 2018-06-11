@@ -8,6 +8,4 @@ Basic binaries : https://www.youtube.com/watch?v=DxNlRMboBuI&list=PLEETnX-uPtBXT
 
  This repository was built on Windows 10 platform using Microsoft Visual Studio Community 2017.
  
- 1. Build the project.
- 2. Copy all files from 'Debug\' to 'OpenGLtutorial1\'.
- 3. Run '3D_motion.exe'.
+ Run 'OpenGLtutorial1/3D_motion.exe'.
