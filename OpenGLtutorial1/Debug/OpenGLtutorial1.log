@@ -1,0 +1,18 @@
+﻿  display.cpp
+  main.cpp
+c:\users\imhee\documents\visual studio 2017\projects\3d_motion\opengltutorial1\main.cpp(23): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\imhee\documents\visual studio 2017\projects\3d_motion\opengltutorial1\main.cpp(30): warning C4305: '+=': truncation from 'double' to 'float'
+  mesh.cpp
+  Shader.cpp
+  Texture.cpp
+  Generating Code...
+  stb_image.c
+c:\users\imhee\documents\visual studio 2017\projects\3d_motion\opengltutorial1\stb_image.c(599): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\imhee\documents\visual studio 2017\projects\3d_motion\opengltutorial1\stb_image.c(723): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\imhee\documents\visual studio 2017\projects\3d_motion\opengltutorial1\stb_image.c(799): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\imhee\documents\visual studio 2017\projects\3d_motion\opengltutorial1\stb_image.c(8620): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+  OpenGLtutorial1.vcxproj -> C:\Users\imhee\Documents\Visual Studio 2017\Projects\3D_Motion\Debug\3D_Motion.exe
